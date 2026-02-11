@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\bin\Debug\Greenville Revenues GUI.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\bin\Debug\Greenville Revenues GUI.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\bin\Debug\Greenville Revenues GUI.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville Revenues GUI.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville_Revenues_GUI.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville_Revenues_GUI.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville Revenues GUI.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville Revenues GUI.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville Revenues GUI.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Folders\Greenville Revenues GUI\Greenville Revenues GUI\obj\Debug\Greenville Revenues GUI.pdb
