@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\bin\Debug\Lab 3.2 Move Estimator GUI.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\bin\Debug\Lab 3.2 Move Estimator GUI.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\bin\Debug\Lab 3.2 Move Estimator GUI.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab 3.2 Move Estimator GUI.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab_3._2_Move_Estimator_GUI.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab_3._2_Move_Estimator_GUI.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab 3.2 Move Estimator GUI.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab 3.2 Move Estimator GUI.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab 3.2 Move Estimator GUI.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 3\Lab 3.2 Move Estimator GUI\Lab 3.2 Move Estimator GUI\obj\Debug\Lab 3.2 Move Estimator GUI.pdb
