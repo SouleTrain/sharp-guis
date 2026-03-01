@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\bin\Debug\SumFiveInts.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\bin\Debug\SumFiveInts.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\bin\Debug\SumFiveInts.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 5\Folders\SumFiveInts\SumFiveInts\obj\Debug\SumFiveInts.pdb

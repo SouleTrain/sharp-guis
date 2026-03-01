@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\bin\Debug\Hurricane.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\bin\Debug\Hurricane.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\bin\Debug\Hurricane.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 4\Folders\Hurricane\Hurricane\obj\Debug\Hurricane.pdb
