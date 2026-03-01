@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe.config
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\bin\Debug\CheckCredit.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.CheckCredit.resources
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C#\CheckCredit\CheckCredit\obj\Debug\CheckCredit.pdb
