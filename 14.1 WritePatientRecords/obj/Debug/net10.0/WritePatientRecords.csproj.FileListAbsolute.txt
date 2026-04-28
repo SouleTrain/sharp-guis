@@ -1,0 +1,14 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\bin\Debug\net10.0\WritePatientRecords.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\bin\Debug\net10.0\WritePatientRecords.deps.json
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\bin\Debug\net10.0\WritePatientRecords.runtimeconfig.json
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\bin\Debug\net10.0\WritePatientRecords.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\bin\Debug\net10.0\WritePatientRecords.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\refint\WritePatientRecords.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\WritePatientRecords.genruntimeconfig.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 14\Lab 14.1\WritePatientRecords\obj\Debug\net10.0\ref\WritePatientRecords.dll
